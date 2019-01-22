@@ -1,2 +1,3 @@
-# vicjac33.github.io
-train times
+# Train Times
+Accomplished most of minimum requirements.
+Missing the Next Arrival time.
